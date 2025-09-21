@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EtherNope": {
+      "commandName": "Project",
+      "commandLineArgs": "disable Ethernet 1 \"INTERNET SLÅS AV OM 5 MINUTER\""
+    }
+  }
+}
